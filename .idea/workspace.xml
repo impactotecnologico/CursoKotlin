@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b86e05e7-21f7-48a1-8d7a-a8753d6ff0dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/models/Estudiante.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/models/Examen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/delegacion/A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/herencia/Named.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -49,6 +46,33 @@
               <folding>
                 <element signature="e#49#185#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/delegacion/A.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interfaces/herencia/Named.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -121,6 +145,9 @@
         <option value="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/Main.kt" />
         <option value="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository.kt" />
         <option value="$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt" />
+        <option value="$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt" />
+        <option value="$PROJECT_DIR$/src/interfaces/delegacion/A.kt" />
+        <option value="$PROJECT_DIR$/src/interfaces/herencia/Named.kt" />
       </list>
     </option>
   </component>
@@ -350,6 +377,27 @@
           <folding>
             <element signature="e#49#185#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/delegacion/A.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/herencia/Named.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
