@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b86e05e7-21f7-48a1-8d7a-a8753d6ff0dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/delegacion/A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/herencia/Named.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/abstractas/Employee.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/abstractas/anulacion/BaseA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clases/herencia/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/ICardLimit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/enums.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excepciones/foo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/Ilimitados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/OperadorPropagado.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoDEmos/META-INF/CursoDEmos.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoDEmos/META-INF/CursoDEmos.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoDEmos/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,100 +31,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/MyInterface.kt">
+        <entry file="file://$PROJECT_DIR$/src/enums/enums.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="346">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/Child.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#49#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt">
+        <entry file="file://$PROJECT_DIR$/src/excepciones/foo.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/delegacion/A.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="15" />
+              <caret line="12" selection-start-line="12" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/herencia/Named.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-              <folding>
-                <element signature="e#41#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/interfaces/UniversidadRepository.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-              <folding>
-                <element signature="e#52#177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/models/Estudiante.kt">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/models/Examen.kt">
+        <entry file="file://$PROJECT_DIR$/src/enums/ICardLimit.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -129,6 +76,16 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>”</find>
+      <find>calculateCashbackPercent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>calculaPorcentaje</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,6 +105,17 @@
         <option value="$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt" />
         <option value="$PROJECT_DIR$/src/interfaces/delegacion/A.kt" />
         <option value="$PROJECT_DIR$/src/interfaces/herencia/Named.kt" />
+        <option value="$PROJECT_DIR$/src/clases/abstractas/Employee.kt" />
+        <option value="$PROJECT_DIR$/src/clases/abstractas/anulacion/BaseA.kt" />
+        <option value="$PROJECT_DIR$/src/clases/herencia/Student.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/OperadorPropagado.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/Ilimitados.kt" />
+        <option value="$PROJECT_DIR$/src/enums/Estado.java" />
+        <option value="$PROJECT_DIR$/src/enums/ICardLimit.kt" />
+        <option value="$PROJECT_DIR$/src/enums/CardType.kt" />
+        <option value="$PROJECT_DIR$/src/enums/enums.kt" />
+        <option value="$PROJECT_DIR$/src/excepciones/foo.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -178,6 +146,12 @@
               <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +212,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.interfaces.ejerciciouniversidad.MainKt">
+  <component name="RunManager" selected="Kotlin.enums.EnumsKt">
+    <configuration name="enums.EnumsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoDEmos" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="enums.EnumsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="interfaces.ChildKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoDEmos" />
       <option name="VM_PARAMETERS" />
@@ -267,6 +254,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.enums.EnumsKt" />
         <item itemvalue="Kotlin.interfaces.ejerciciouniversidad.MainKt" />
         <item itemvalue="Kotlin.interfaces.ChildKt" />
       </list>
@@ -290,7 +278,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298731" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
@@ -370,20 +358,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt">
+    <entry file="file://$PROJECT_DIR$/src/clases/abstractas/anulacion/BaseA.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#49#185#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt">
+    <entry file="file://$PROJECT_DIR$/src/clases/herencia/Student.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funciones/OperadorPropagado.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funciones/Ilimitados.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/herencia/Named.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -394,10 +400,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/herencia/Named.kt">
+    <entry file="file://$PROJECT_DIR$/src/interfaces/mismonombremetodo/InterfaceA.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfaces/ejerciciouniversidad/classes/UniversidadDataManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#49#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clases/abstractas/Employee.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/Estado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/CardType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/ICardLimit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/enums.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excepciones/foo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
