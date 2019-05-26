@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b86e05e7-21f7-48a1-8d7a-a8753d6ff0dc" name="Default Changelist" comment="" />
+    <list default="true" id="b86e05e7-21f7-48a1-8d7a-a8753d6ff0dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/clases/sellada/Sellada.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/lambda/Retorno2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/lambda/ejercicio/Personas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/lambda/lambda.Retorno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones/ordensuperior/ordensuperior.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoDEmos/META-INF/CursoDEmos.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoDEmos/META-INF/CursoDEmos.kotlin_module" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +22,69 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/funciones/ordensuperior/ordensuperior.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clases/sellada/Sellada.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/funciones/lambda/lambda.Retorno.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/funciones/lambda/Retorno2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/funciones/lambda/ejercicio/Personas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -66,6 +131,14 @@
         <option value="$PROJECT_DIR$/src/listas/listas1.kt" />
         <option value="$PROJECT_DIR$/src/colecciones/listas1.kt" />
         <option value="$PROJECT_DIR$/src/colecciones/mapas.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/ordensuperior/ordensuperior.kt" />
+        <option value="$PROJECT_DIR$/src/singleton/Singleton.kt" />
+        <option value="$PROJECT_DIR$/src/clases/sellada/Sellada.java" />
+        <option value="$PROJECT_DIR$/src/clases/sellada/Sellada.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/lambda.Retorno.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/lambda/lambda.Retorno.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/lambda/Retorno2.kt" />
+        <option value="$PROJECT_DIR$/src/funciones/lambda/ejercicio/Personas.kt" />
       </list>
     </option>
   </component>
@@ -84,77 +157,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="colecciones" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="ejerciciouniversidad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="ejerciciouniversidad" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="ejerciciouniversidad" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoDEmos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoDEmos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="ejerciciouniversidad" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bluetab-repos/vfportal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\CursoDEmos\src\funciones\lambda" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.colecciones.MapasKt">
+  <component name="RunManager" selected="Kotlin.funciones.ordensuperior.OrdensuperiorKt">
     <configuration name="colecciones.Listas1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoDEmos" />
       <option name="VM_PARAMETERS" />
@@ -208,14 +222,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaces.ChildKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones.ordensuperior.OrdensuperiorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoDEmos" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="interfaces.ChildKt" />
+      <option name="MAIN_CLASS_NAME" value="funciones.ordensuperior.OrdensuperiorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.funciones.ordensuperior.OrdensuperiorKt" />
         <item itemvalue="Kotlin.colecciones.MapasKt" />
         <item itemvalue="Kotlin.colecciones.Listas1Kt" />
         <item itemvalue="Kotlin.enums.EnumsKt" />
         <item itemvalue="Kotlin.interfaces.ejerciciouniversidad.MainKt" />
-        <item itemvalue="Kotlin.interfaces.ChildKt" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +271,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809062" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27427185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -437,6 +451,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clases/sellada/Sellada.java" />
+    <entry file="file://$PROJECT_DIR$/src/funciones/ordensuperior/ordensuperior.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clases/sellada/Sellada.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funciones/lambda/lambda.Retorno.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funciones/lambda/Retorno2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funciones/lambda/ejercicio/Personas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
